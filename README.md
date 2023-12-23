@@ -4,7 +4,7 @@ A simple load balancer with cli implemented in Node.js and Express.
 
 ## Description
 
-This project is a basic implementation of a load balancer using the MERN stack (MongoDB, Express.js, React, Node.js). The load balancer distributes incoming requests across multiple servers to ensure efficient utilization of resources and improved system reliability.
+This project is a basic implementation of a load balancer using NodeJS and ExpressJS. The load balancer distributes incoming requests across multiple servers to ensure efficient utilization of resources and improved system reliability.
 
 ![Screenshot 2023-12-23 214943](https://github.com/harshilsharmaa/Load-Balancer/assets/71216106/c91bdfca-7327-45a7-a5a4-d39f0330f81a)
 
