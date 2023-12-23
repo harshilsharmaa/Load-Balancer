@@ -120,7 +120,6 @@ const startServer = () => {
 
     console.log(`Load Balancer is running on port: ${PORT}`);
     const helthCheckCronJob = cron.schedule(`*/${healthCheckPeriod} * * * * *`, () => {
-      // This function will be executed every 10 seconds
       healthCheck();
     });
   });
