@@ -2,6 +2,8 @@
 
 A simple load balancer with cli implemented in Node.js and Express.
 
+Demo: https://youtu.be/yqBR1M1jlPA?si=EcGiI7i7gxPPoxkp
+
 ## Description
 
 This project is a basic implementation of a load balancer using NodeJS and ExpressJS. The load balancer distributes incoming requests across multiple servers to ensure efficient utilization of resources and improved system reliability.
